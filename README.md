@@ -26,7 +26,7 @@ I do not currently have public hardware or PCB repositories. Those will go here 
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: [gerardo-cadagan](https://www.linkedin.com/in/gerardo-cadagan)
 - GitHub: [tuxedoshades](https://github.com/tuxedoshades)
 
 
